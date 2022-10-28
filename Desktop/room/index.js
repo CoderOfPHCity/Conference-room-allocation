@@ -72,7 +72,7 @@ document.getElementById('submit').onclick = (event) => {
     <td>${room}</td>
     <td>${user.fname}</td>
     <td>${user.role}</td>
-    <td>${user.gender}</td>
+    <td>${user.bedroom}</td>
   </tr>`
 }
 
